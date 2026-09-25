@@ -1,0 +1,6 @@
+{
+  "name": "Game Edukasi AI Generatif - IFP Kelas 7",
+  "description": "Media Pembelajaran Interaktif Papan Digital (IFP) SMP Kelas 7 Fase D untuk materi Kecerdasan Artifisial Generatif dengan 3 mode: Labirin, Tarik Tambang, dan Kuis Rebutan multi-touch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

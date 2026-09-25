@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btn-pressed {
+  transform: translateY(3px) scale(0.98) !important;
+  filter: brightness(1.15) !important;
+}
